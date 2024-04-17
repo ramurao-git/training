@@ -1,0 +1,1 @@
+Also, new important features (upto Java 21) like "records", "virtual threads" need to be added
